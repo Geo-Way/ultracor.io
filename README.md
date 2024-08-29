@@ -88,8 +88,6 @@ Radiometric atmospheric correction is essential in remote sensing to adjust the 
 
 ## References
 
-### Referencias
-
 1. **Laporte-Fauret, Q., Garon, C., Labrosse, G., and Lefebvre, R. (2020).** 
    "A Comparison of Radiometric Correction Methods Applied to UAV-Based Multispectral Imagery." 
    *Remote Sensing,* 12(17), 2787. https://doi.org/10.3390/rs12172787
