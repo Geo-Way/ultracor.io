@@ -4,7 +4,7 @@
 
 ## Overview
 
-**ULTRACOR** is a QGIS plugin designed to perform radiometric atmospheric corrections on satellite imagery. Developed by GeoWay, this plugin provides an efficient and user-friendly interface for adjusting satellite imagery data, making it suitable for scientific and practical applications in remote sensing.
+The **ULTRACOR** plugin aims to perform radiometric correction of airborne images captured by UltraCam sensors. This plugin allows users to apply empirical corrections to convert digital values into reflectance, facilitating the analysis and further processing of images within the QGIS environment.
 
 ## Objective
 
@@ -26,8 +26,8 @@ Radiometric atmospheric correction is essential in remote sensing to adjust the 
 
 ### Key Concepts:
 
-1. **Solar Irradiance**: The power per unit area received from the Sun in the form of electromagnetic radiation.
-2. **Offset and Scale Factor**: Parameters used to adjust the digital numbers (DN) of the image to physical values.
+1. **Solar Irradiance**: The power per unit area received from the Sun through electromagnetic radiation.
+2. **Offset and Scale Factor**: Parameters are used to adjust the image's digital numbers (DN) to physical values.
 3. **Band Selection**: The process involves selecting specific wavelength bands (e.g., Blue, Green, Red, NIR) that correspond to different portions of the electromagnetic spectrum.
 
 ## Installation
@@ -88,6 +88,25 @@ Radiometric atmospheric correction is essential in remote sensing to adjust the 
 
 ## References
 
+### Referencias
+
+1. **Laporte-Fauret, Q., Garon, C., Labrosse, G., and Lefebvre, R. (2020).** 
+   "A Comparison of Radiometric Correction Methods Applied to UAV-Based Multispectral Imagery." 
+   *Remote Sensing,* 12(17), 2787. https://doi.org/10.3390/rs12172787
+
+2. **Martínez, L., et al. (2021).** 
+   "Radiometric Calibration and Correction of UAV Imagery for Agricultural Applications." 
+   *Sensors,* 21(11), 3733. https://doi.org/10.3390/s21113733
+
+3. **Serrano, J., et al. (2022).** 
+   "Comparative Analysis of Radiometric Correction Methods for UAV-Based Multispectral Imagery." 
+   *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,* 15, 4327-4336. https://doi.org/10.1109/JSTARS.2022.3174912
+
+4. **IDEAM (2020).** 
+   "Atlas de Radiación Solar, Ultravioleta y Ozono de Colombia." 
+   *Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM).* 
+   Disponible en: https://www.ideam.gov.co/web/tiempo-y-clima/atlas-de-radiacion
+Others:
 - [Chavez, P. S. (1996). Image-Based Atmospheric Corrections](https://www.sciencedirect.com/science/article/pii/S0034425796000953)
 - [Gao, B.-C. (1996). Atmospheric correction algorithms](https://www.osapublishing.org/ao/fulltext.cfm?uri=ao-35-15-2699&id=145358)
 - [QGIS Documentation](https://docs.qgis.org/)
