@@ -4,7 +4,7 @@
 
 ## Overview
 
-**ULTRACOR** is a QGIS plugin designed to perform radiometric atmospheric corrections on satellite imagery. Developed by [Your Name/Your Organization], this plugin provides an efficient and user-friendly interface for adjusting satellite imagery data, making it suitable for scientific and practical applications in remote sensing.
+**ULTRACOR** is a QGIS plugin designed to perform radiometric atmospheric corrections on satellite imagery. Developed by GeoWay, this plugin provides an efficient and user-friendly interface for adjusting satellite imagery data, making it suitable for scientific and practical applications in remote sensing.
 
 ## Objective
 
